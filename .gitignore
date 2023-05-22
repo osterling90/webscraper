@@ -24,4 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # Test files
-/Users/owen_/Documents/Prep and Tutorials/webscraper/src/test/java/com/owen
+AppTest.java
+
+#MacOS files
+.DS_Store
