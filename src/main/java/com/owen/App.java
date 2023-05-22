@@ -59,7 +59,7 @@ public class App extends JFrame implements ActionListener{
         for(Element searchResult: page.select("h3 a")){
             final String info = searchResult.text();
             final String link = searchResult.attr("href");
-            list.add(info + ":" + link);
+            list.add(info + " -> " + link);
         }
         exportFile(list);
     }
