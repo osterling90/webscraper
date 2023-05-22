@@ -23,8 +23,5 @@
 hs_err_pid*
 replay_pid*
 
-# Test files
-**/AppTest
-
 #MacOS files
 **/.DS_Store
