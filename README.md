@@ -8,4 +8,4 @@ that is then passed to an exportFile() method to be printed to a text file.
 ## Notes:
 ** This program was designed to be used on STATIC web pages ** </br>
 ** Search results are not exhaustive. Some queries return no results ** </br>
-** This implementation was intended as a simple demonstration the utility of the jsoup library for HTML parsing **
+** This implementation was intended as a simple demonstration of the utility of the jsoup library for HTML parsing **
