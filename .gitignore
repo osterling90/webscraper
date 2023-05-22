@@ -24,7 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # Test files
-AppTest.java
+**/AppTest
 
 #MacOS files
-.DS_Store
+**/.DS_Store
